@@ -1,0 +1,23 @@
+{
+    "name": "panix/mod-chatgpt",
+    "description": "Yii2 ChatGPT",
+    "keywords": ["module", "yii2", "chatgpt"],
+    "homepage": "https://github.com/andrtechno/mod-chatgpt",
+    "type": "pixelion-component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PIXELION CMS",
+            "email": "dev@pixelion.com.ua",
+            "homepage": "https://pixelion.com.ua"
+        }
+    ],
+    "require": {
+        "panix/yii2-chatgpt": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "panix\\mod\\chatgpt\\": ""
+        }
+    }
+}
