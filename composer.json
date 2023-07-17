@@ -3,7 +3,7 @@
     "description": "Yii2 ChatGPT",
     "keywords": ["module", "yii2", "chatgpt"],
     "homepage": "https://github.com/andrtechno/mod-chatgpt",
-    "type": "pixelion-component",
+    "type": "pixelion-module",
     "license": "MIT",
     "authors": [
         {

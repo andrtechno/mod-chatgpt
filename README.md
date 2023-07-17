@@ -7,12 +7,12 @@ Chat GPT
 See all methods: https://github.com/orhanerday/open-ai#documentation
 
 
-[![Latest Stable Version](https://poser.pugx.org/panix/yii2-chatgpt/v/stable)](https://packagist.org/packages/panix/yii2-chatgpt)
-[![Total Downloads](https://poser.pugx.org/panix/yii2-chatgpt/downloads)](https://packagist.org/packages/panix/yii2-chatgpt)
-[![Monthly Downloads](https://poser.pugx.org/panix/yii2-chatgpt/d/monthly)](https://packagist.org/packages/panix/yii2-chatgpt)
-[![Daily Downloads](https://poser.pugx.org/panix/yii2-chatgptwgt-tinymce/d/daily)](https://packagist.org/packages/panix/yii2-chatgpt)
-[![Latest Unstable Version](https://poser.pugx.org/panix/yii2-chatgpt/v/unstable)](https://packagist.org/packages/panix/yii2-chatgpt)
-[![License](https://poser.pugx.org/panix/yii2-chatgpt/license)](https://packagist.org/packages/panix/yii2-chatgpt)
+[![Latest Stable Version](https://poser.pugx.org/panix/mod-chatgpt/v/stable)](https://packagist.org/packages/panix/mod-chatgpt)
+[![Total Downloads](https://poser.pugx.org/panix/mod-chatgpt/downloads)](https://packagist.org/packages/panix/mod-chatgpt)
+[![Monthly Downloads](https://poser.pugx.org/panix/mod-chatgpt/d/monthly)](https://packagist.org/packages/panix/mod-chatgpt)
+[![Daily Downloads](https://poser.pugx.org/panix/mod-chatgptwgt-tinymce/d/daily)](https://packagist.org/packages/panix/mod-chatgpt)
+[![Latest Unstable Version](https://poser.pugx.org/panix/mod-chatgpt/v/unstable)](https://packagist.org/packages/panix/mod-chatgpt)
+[![License](https://poser.pugx.org/panix/mod-chatgpt/license)](https://packagist.org/packages/panix/mod-chatgpt)
 
 
 Installation
@@ -29,7 +29,7 @@ php composer require --prefer-dist panix/yii2-chatgpt "*"
 or add
 
 ```
-"panix/yii2-chatgpt": "*"
+"panix/mod-chatgpt": "*"
 ```
 
 Add config file

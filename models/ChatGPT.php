@@ -1,6 +1,6 @@
 <?php
 
-namespace panix\ext\chatgpt\models;
+namespace panix\mod\chatgpt\models;
 
 use panix\engine\CMS;
 use panix\engine\Html;
